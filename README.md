@@ -1,1 +1,1 @@
-# hackathon-alimentaires
+# Hackathon alimentaires

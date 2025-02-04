@@ -1,37 +1,64 @@
-# Hackathon sur les données alimentaires 🥦
+# Hackathon GenAI for Public Good 🤖  
 
+📙 **Retrouvez le Guide du participant en cliquant** [ici](https://alliance.numerique.gouv.fr/hackathon/participant-guide-fr/)  
 
+## 👩‍💻 Comment participer ?  
 
-📙 **Retrouvez le Guide du participant sur Outline en cliquant** [ici](https://documentation.beta.numerique.gouv.fr/s/e44ffbcc-9b7d-4dbc-bcf3-b6ea6daef89e)
+Pour participer au Hackathon, vous devez créer un dépôt public (vous pouvez par exemple partir d'un fork de ce dépôt).  
 
-## 👩‍💻 Comment participer ?
+Votre dépôt servira pour l'évaluation de votre projet à l'issue du Hackathon !  
 
-Pour participer au Hackathon vous devez créer un dépôt public (vous pouvez par exemple partir d'un fork de ce dépôt en cliquant [ici](https://github.com/etalab/hackathon-alimentaires/fork) puis sur "Create fork").
+Bon courage 🔥 !  
 
-Votre dépôt servira pour l'évaluation de votre projet à l'issu du Hackathon !
+---
 
-Bon courage 🔥!
+## 🚀 Rendu attendu  
 
-## 🥦 Rendu
+### 🎯 Sélectionnez votre Track  
 
-Pour évaluer votre projet merci de compléter ce README avec les informations suivantes :
+Votre projet doit s'inscrire dans l'un des **deux tracks** suivants :  
 
-### Description
-- Problématique et proposition de valeur.
-- A quelle problématique s’attaque votre projet ?
-- Quelle est votre proposition de valeur ?
+#### 🧠 Track 1 : Algorithmes à Forte Valeur Ajoutée  
+Développez des algorithmes avancés pour relever des défis technologiques fondamentaux.  
 
-### Solution
-- Description de la solution et de ses fonctionnalités
-- Quel usage est fait des données ? Que vous permettent-elles de faire ?
-- Quelle est la méthode de création de la solution ?
+Exemples :  
+- 🎙 **Transcription vocale** : Amélioration du Speech-to-Text pour les langues sous-représentées.  
+- 🛰 **Analyse géospatiale** : IA pour la planification urbaine et la gestion des crises.  
+- 📄 **Numérisation de documents** : Amélioration de l'OCR pour les administrations.
 
-### Impact envisagé
-- Que permet de faire la solution ?
-- Qui sont les usagers visés, et qu’en feraient-ils ?
+### 📝 Informations à renseigner pour l’évaluation  
 
-### Ressources
-- Lien vers la documentation du projet
+Merci de compléter ce README avec les éléments suivants : 
 
-## [Facultatif] Retours sur la qualité des données exploitées
-Quelles sont les difficultés que vous avez rencontrées dans l’usage des données ?
+##### 🏆 Critères d'évaluation  
+| Critère            | Description | Poids (%) |
+|--------------------|-------------|-----------|
+| 🎯 **Précision**  | Le modèle produit-il des résultats plus fiables et pertinents que les solutions actuelles ? | 25 |
+| ⚡ **Efficacité**  | L’utilisation des ressources informatiques est-elle optimisée sans compromettre la qualité ? | 25 |
+| 💧 **Durabilité**  | Le modèle est-il respectueux de l’environnement et économe en ressources ? | 25 |
+| 📊 **Utilisation des données** | Les données sont-elles intégrées de manière éthique et pertinente ? | 25 |
+
+--- 
+
+#### 🛠 Track 2 : Cas d'Usage à Fort Impact avec des APIs  
+Exploitez des APIs comme **Albert** pour concevoir des outils concrets pour l'administration publique.  
+
+Exemples :  
+- 📝 **Automatisation administrative** : Génération automatique de documents et rapports.  
+- 🔍 **Analyse documentaire** : Recherche et résumé intelligent de textes.  
+- 🎯 **Prototypes sur mesure** : Solutions adaptées aux besoins spécifiques identifiés par les équipes.
+
+### 📝 Informations à renseigner pour l’évaluation  
+
+Merci de compléter ce README avec les éléments suivants :  
+
+##### 🏆 Critères d'évaluation  
+| Critère            | Description | Poids (%) |
+|--------------------|-------------|-----------|
+| 🎯 **Pertinence**  | La solution répond-elle à un défi clair du service public ? | 25 |
+| 📈 **Impact**      | Les résultats attendus sont-ils significatifs et mesurables ? | 25 |
+| 🔧 **Faisabilité** | L’implémentation du MVP est-elle réaliste ? | 25 |
+| 🌍 **Scalabilité** | La solution est-elle adaptable et conçue comme un bien commun numérique ? | 25 |
+
+---
+

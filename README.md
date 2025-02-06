@@ -27,7 +27,7 @@ Toute la sphère publique peut utiliser Docs en un clic depuis [lasuite.numeriqu
 [Vidéo sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7292902028840742913/)
 
 #### Demo
-https://github.com/user-attachments/assets/40b8dd69-d011-43af-ae32-1eead6e16344
+https://github.com/user-attachments/assets/7eccb587-4ceb-4843-9d89-c9da7120aeb4
 
 #### Code
 https://github.com/suitenumerique/docs/tree/feature/blocknote-ai

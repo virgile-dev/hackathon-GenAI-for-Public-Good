@@ -22,6 +22,13 @@ Exploitez des APIs comme **Albert** pour concevoir des outils concrets pour l'ad
 Une barre d'outils IA au niveau de ce que propose Notion pour que les agents puissent utiliser des IA souveraines pour les aider à faire X10 dans leur production sur la tâche du quotien sur laquelle ils passent le plus de temps : écrire du texte.
 Nous intégrons cette tool bar dans [Docs](https://docs.numerique.gouv.fr/), un éditeur de texte collaboratif moderne et open source co-construit par les gouvernement allemands et français. 
 Toute la sphère publique peut utiliser Docs en un clic depuis [lasuite.numerique.gouv.fr](https://lasuite.numerique.gouv.fr) grâce à ProConnect 
+#### Team
+- Anthony Le-Couric (Front-end integration and devops)
+- Yousef El-Dardiry - Front (AI Toolbar from Blocknotejs)
+- Virgile Deville - Product
+- Martin Noël - Université Laval à Québec,feedback utilisateur
+- Eric Demers - Université Laval à Québec,feedback utilisateur
+- Henri Jachet - Préfecture de Bourgogne France Comté,feedback utilisateur
 
 #### Pitch
 [Vidéo sur LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7292902028840742913/)

@@ -23,8 +23,8 @@ Une barre d'outils IA au niveau de ce que propose Notion pour que les agents pui
 Nous intégrons cette tool bar dans [Docs](https://docs.numerique.gouv.fr/), un éditeur de texte collaboratif moderne et open source co-construit par les gouvernement allemands et français. 
 Toute la sphère publique peut utiliser Docs en un clic depuis [lasuite.numerique.gouv.fr](https://lasuite.numerique.gouv.fr) grâce à ProConnect 
 #### Team
-- Anthony Le-Couric (Front-end integration and devops)
-- Yousef El-Dardiry - Front (AI Toolbar from Blocknotejs)
+- Anthony Le-Couric (Docs Front-end dev : integration and devops)
+- Yousef El-Dardiry - Front (AI Toolbar from [Blocknotejs](https://www.blocknotejs.org/))
 - Virgile Deville - Product
 - Martin Noël - Université Laval à Québec,feedback utilisateur
 - Eric Demers - Université Laval à Québec,feedback utilisateur
